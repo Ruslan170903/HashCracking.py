@@ -1,0 +1,5 @@
+# HashCracking.py — dependencies
+# Note: hashlib, base64, os and sys are part of the Python standard library.
+# Only bcrypt needs to be installed.
+
+bcrypt>=4.0.0
